@@ -4,7 +4,7 @@
 
 int main(void)
 {
-	printf("(on 10.100.41.12) Pull source code & Build image. 2019/4/15 23:11\n");
+	printf("(on Jenkins slave node 10.100.41.84) Pull source code & Build image. 2019/4/15 23:11\n");
 	getchar();
 
 	return 0;
