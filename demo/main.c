@@ -4,7 +4,7 @@
 
 int main(void)
 {
-	printf("hello world!! 2019/4/15 22:56\n");
+	printf("(on 10.100.41.12) Pull source code & Build image. 2019/4/15 23:03\n");
 	getchar();
 
 	return 0;
